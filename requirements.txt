@@ -1,0 +1,14 @@
+kagglehub
+faiss-cpu
+streamlit
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+pypdf
+pdfplumber
+numpy
+pandas
+python-dotenv
+tiktoken
